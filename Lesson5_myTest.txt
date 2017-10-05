@@ -1,0 +1,6 @@
+Hello Everyone
+1
+2
+3
+This is a test file
+for php File Handling
